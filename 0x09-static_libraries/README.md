@@ -1,1 +1,1 @@
-static librairies
+0x09. C - Static libraries
