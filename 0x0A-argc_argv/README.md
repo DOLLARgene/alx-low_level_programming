@@ -1,1 +1,1 @@
-0x0A c project
+0x0A. C - argc, argv
