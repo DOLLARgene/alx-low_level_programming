@@ -1,1 +1,1 @@
-0x07 mointer array string
+0x07. C - Even more pointers, arrays and strings
