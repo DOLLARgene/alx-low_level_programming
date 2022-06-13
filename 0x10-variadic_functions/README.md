@@ -1,1 +1,1 @@
-0x10varac funtion
+0x10-varadic_functions
